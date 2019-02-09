@@ -1,0 +1,5 @@
+1. Power on stove
+2. Boil Water
+3. Add Sugar
+4. Add tea
+5. Serve tea
